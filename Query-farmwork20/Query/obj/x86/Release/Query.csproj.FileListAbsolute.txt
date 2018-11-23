@@ -1,0 +1,121 @@
+D:\Net\Query\Query\bin\Release\Query.exe.config
+D:\Net\Query\Query\bin\Release\Query.exe
+D:\Net\Query\Query\bin\Release\Query.pdb
+D:\Net\Query\Query\bin\Release\MySql.Data.dll
+D:\Net\Query\Query\bin\Release\NPOI.dll
+D:\Net\Query\Query\obj\x86\Release\Query.Form1.resources
+D:\Net\Query\Query\obj\x86\Release\Query.Properties.Resources.resources
+D:\Net\Query\Query\obj\x86\Release\Query.csproj.GenerateResource.Cache
+D:\Net\Query\Query\obj\x86\Release\Query.exe
+D:\Net\Query\Query\obj\x86\Release\Query.pdb
+D:\Net\Query\Query\obj\x86\Release\Query.MainForm.resources
+D:\Net\Query\Query\obj\x86\Release\Query.Update.replaceCard.resources
+D:\Net\Query\Query\obj\x86\Release\Query.CheckWork.resources
+D:\Net\Query\Query\obj\x86\Release\Query.FormLogin.resources
+D:\Net\Query\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadConfirm.resources
+D:\Net\Query\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadProgress.resources
+D:\Net\Query\Query\obj\x86\Release\Query.ModifyPassword.resources
+D:\Net\Query\Query\obj\x86\Release\Query.Query.CheckOverTime.resources
+D:\Net\Query\Query\obj\x86\Release\Query.csprojResolveAssemblyReference.cache
+D:\Net\Query - farmwork20\Query\bin\Release\Query.exe.config
+D:\Net\Query - farmwork20\Query\bin\Release\Query.exe
+D:\Net\Query - farmwork20\Query\bin\Release\Query.pdb
+D:\Net\Query - farmwork20\Query\bin\Release\MySql.Data.dll
+D:\Net\Query - farmwork20\Query\bin\Release\NPOI.dll
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.CheckWork.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadConfirm.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadProgress.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Form1.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.FormLogin.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.MainForm.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.ModifyPassword.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Properties.Resources.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Query.CheckOverTime.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Query.DGsubsidy.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Update.replaceCard.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.csproj.GenerateResource.Cache
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.exe
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.pdb
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Query.ForgetCardQuery.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.Search.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.FormModel.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.Query.RawData.resources
+D:\Net\Query - farmwork20\Query\obj\x86\Release\Query.csprojResolveAssemblyReference.cache
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\bin\Release\Query.exe.config
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\bin\Release\Query.exe
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\bin\Release\Query.pdb
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\bin\Release\MySql.Data.dll
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\bin\Release\NPOI.dll
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.csprojResolveAssemblyReference.cache
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.CheckWork.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadConfirm.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadProgress.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Form1.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.FormLogin.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.FormModel.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.MainForm.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.ModifyPassword.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Properties.Resources.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Query.CheckOverTime.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Query.DGsubsidy.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Query.ForgetCardQuery.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Query.RawData.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.Search.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.Update.replaceCard.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.csproj.GenerateResource.Cache
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.csproj.CoreCompileInputs.cache
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.exe
+C:\Users\897429\Desktop\新建文件夹\query\Query - farmwork20\Query\obj\x86\Release\Query.pdb
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\bin\Release\Query.exe.config
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\bin\Release\Query.exe
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\bin\Release\Query.pdb
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\bin\Release\MySql.Data.dll
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\bin\Release\NPOI.dll
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.csprojResolveAssemblyReference.cache
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.CheckWork.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadConfirm.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadProgress.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Form1.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.FormLogin.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.FormModel.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.MainForm.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.ModifyPassword.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Properties.Resources.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Query.CheckOverTime.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Query.DGsubsidy.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Query.ForgetCardQuery.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Query.RawData.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.Search.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.Update.replaceCard.resources
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.csproj.GenerateResource.Cache
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.csproj.CoreCompileInputs.cache
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.exe
+C:\Users\897429\Desktop\新建文件夹\query\Query-farmwork20\Query\obj\x86\Release\Query.pdb
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\bin\Release\Query.exe.config
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\bin\Release\Query.exe
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\bin\Release\Query.pdb
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.CheckWork.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadConfirm.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\KnightsWarriorAutoupdater.DownloadProgress.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Form1.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.FormLogin.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.FormModel.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.MainForm.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.ModifyPassword.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Query.CheckOverTime.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Query.DGsubsidy.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Query.ForgetCardQuery.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Query.RawData.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\ShippingNote.SN_Yield.Search.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.Update.replaceCard.resources
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.exe
+C:\Users\Administrator\Desktop\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\沙海波交接資料\sourceCode\Query-farmwork20-20180712\Query-farmwork20\Query-farmwork20\Query\bin\Release\Query.exe.config
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\沙海波交接資料\sourceCode\Query-farmwork20-20180712\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.exe
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\沙海波交接資料\sourceCode\Query-farmwork20-20180712\Query-farmwork20\Query-farmwork20\Query\obj\x86\Release\Query.pdb
